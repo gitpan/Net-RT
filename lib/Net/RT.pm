@@ -5,7 +5,7 @@ use strict;
 package Net::RT;
 
 use vars qw/$VERSION/;
-$VERSION = '0.00_01';
+$VERSION = '0.00_02';
 
 use SOAP::Lite;
 use Data::Dumper;
